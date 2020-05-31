@@ -22,3 +22,9 @@
 #### 2.1 - [Convolutional Neural Networks: Architectures and Convolution/Pooling Layers](https://cs231n.github.io/convolutional-networks/)
 #### 2.2 - [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/)
 #### 2.3 - [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/)
+
+### Lecture Videos
+
+|#|Content|
+|:---:|:---:|
+|Lecture 1|[Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2&t=398s)|
