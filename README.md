@@ -2,6 +2,11 @@
 
 ### Module 0: Preparation 
 
+|#|Content|
+|:---:|:---:|
+|0.1|[Software Setup](https://cs231n.github.io/setup-instructions/))|
+|0.2|[Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)|
+|0.3|[Google Cloud Tutorial](https://github.com/cs231n/gcloud)|
 #### 0.1 - [Software Setup](https://cs231n.github.io/setup-instructions/)
 #### 0.2 - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 #### 0.3 - [Google Cloud Tutorial](https://github.com/cs231n/gcloud)
