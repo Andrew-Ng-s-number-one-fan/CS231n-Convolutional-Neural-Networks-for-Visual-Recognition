@@ -2,11 +2,6 @@
 
 ### Module 0: Preparation 
 
-|#|Content|
-|:---:|:---:|
-|0.1|[Software Setup](https://cs231n.github.io/setup-instructions/))|
-|0.2|[Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)|
-|0.3|[Google Cloud Tutorial](https://github.com/cs231n/gcloud)|
 #### 0.1 - [Software Setup](https://cs231n.github.io/setup-instructions/)
 #### 0.2 - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 #### 0.3 - [Google Cloud Tutorial](https://github.com/cs231n/gcloud)
@@ -28,8 +23,9 @@
 #### 2.2 - [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/)
 #### 2.3 - [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/)
 
-### Lecture Videos
+### Lecture Videos (Spring 2017)
 
 |#|Content|
 |:---:|:---:|
 |Lecture 1|[Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2&t=398s)|
+|Lecture 2|[Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)|
