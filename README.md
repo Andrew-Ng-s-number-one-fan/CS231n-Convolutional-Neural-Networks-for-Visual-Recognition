@@ -31,7 +31,7 @@
 |Lecture 2|[Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)|
 |Lecture 3|[Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)|
 |Lecture 4|[Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)|
-|Lecture 5||
+|Lecture 5|[Convolutional Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo)|
 |Lecture 6||
 |Lecture 7||
 |Lecture 8||
