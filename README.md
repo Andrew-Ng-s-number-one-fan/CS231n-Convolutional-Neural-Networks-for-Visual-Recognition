@@ -37,7 +37,7 @@ A course offered by Stanford University
 |Lecture 7|[Training Neural Networks II](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7)|
 |Lecture 8|[Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8)|
 |Lecture 9|[CNN Architectures](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9)|
-|Lecture 10||
+|Lecture 10|[Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=10)|
 |Lecture 11||
 |Lecture 12||
 |Lecture 13||
