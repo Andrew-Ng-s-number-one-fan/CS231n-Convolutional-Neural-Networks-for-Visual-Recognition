@@ -1,5 +1,5 @@
 # [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-A course offered by Stanford University
+<i>A course offered by Stanford University</i>
 
 ### Module 0: Preparation 
 
