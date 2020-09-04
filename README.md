@@ -1,5 +1,8 @@
-# [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-<i>A course offered by Stanford University</i>
+# CS231n: Convolutional Neural Networks for Visual Recognition
+
+- Course Website: http://cs231n.stanford.edu/
+- Instructor: [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](https://web.eecs.umich.edu/~justincj/), and [Serena Yeung](http://ai.stanford.edu/~syyeung/)
+
 
 ## Lecture Videos (Spring 2017)
 
