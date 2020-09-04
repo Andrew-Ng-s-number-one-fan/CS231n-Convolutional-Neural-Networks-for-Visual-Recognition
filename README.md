@@ -28,16 +28,16 @@
 
 |#|Content|
 |:---:|:---:|
-|Lecture 1|[Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)|
-|Lecture 2|[Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)|
-|Lecture 3|[Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)|
+|Lecture 1|[Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4)|
+|Lecture 2|[Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0)|
+|Lecture 3|[Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc)|
 |Lecture 4|[Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)|
 |Lecture 5|[Convolutional Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo)|
 |Lecture 6|[Training Neural Networks I](https://www.youtube.com/watch?v=wEoyxE0GP2M)|
-|Lecture 7|[Training Neural Networks II](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7)|
-|Lecture 8|[Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8)|
-|Lecture 9|[CNN Architectures](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9)|
-|Lecture 10|[Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=10)|
+|Lecture 7|[Training Neural Networks II](https://www.youtube.com/watch?v=_JB0AO7QxSA)|
+|Lecture 8|[Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc)|
+|Lecture 9|[CNN Architectures](https://www.youtube.com/watch?v=DAOcjicFr1Y)|
+|Lecture 10|[Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ)|
 |Lecture 11||
 |Lecture 12||
 |Lecture 13||
